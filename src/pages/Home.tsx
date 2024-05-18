@@ -12,7 +12,7 @@ const Home = () => {
                     content="The home page of the movie collection."
                 />
             </Helmet>
-            <HeroSection title="MovieHouse" subtitle="React" />
+            <HeroSection title="The MovieHouse" subtitle="React" />
             <Movies />
         </>
     )
